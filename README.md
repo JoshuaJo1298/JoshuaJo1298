@@ -10,7 +10,7 @@ Welcome to my GitHub repository! I am currently a dedicated computer science stu
 
 ## Technical Proficiency
 
-- 💻 **Languages**: Proficient in C++, Python, Java.
+- 💻 **Languages**: Proficient in C, Python, Java.
 - 🌐 **Web Development**: Familiar with HTML, CSS, JavaScript.
 - 📊 **Algorithms & Data Structures**: Enthusiast with a focus on efficiency and optimization.
 
